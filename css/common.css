@@ -16,11 +16,16 @@ a {
     text-decoration: none;
 }
 
+@font-face {
+    font-family: 'HuiFont';
+    src: url("images/common/HuiFont29/HuiFont29.ttf") format('truetype');
+}
+
 body {
-    font-family: sans-serif;
-    font-size: 16pt;
+    font-family:'HuiFont',sans-serif;
+    font-size: 17pt;
     color: #000000;
-    line-height: 1;
+    line-height: 2;
     background-color: #ffffff;
 }
 
