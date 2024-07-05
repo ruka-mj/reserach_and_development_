@@ -32,10 +32,27 @@
 
 .pasta-list li {
     flex-shrink: 0;
-    width: 260px;
+    width: 300px;
     margin-left: 75px;
 }
 
 .pasta-list li:first-child {
     margin-left: 0;
 }
+
+.pasta-list img{
+    height: 200px;
+    width: auto;
+}
+
+@media (max-width: 800px) {
+    .pasta-list {
+    padding-left: 20px;
+    padding-right: 20px;
+    }
+
+    .pasta-list li{
+        width: 220px;
+        margin-left: 30px;
+    }
+    }
