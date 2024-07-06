@@ -45,6 +45,27 @@
     width: auto;
 }
 
+
+.map {
+    width: 300px;
+    max-width: 90%;
+    margin-top: 75px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.map iframe {
+    display:block;
+    width: 100%;
+    height: 300px;
+    margin-top: 25px;
+}
+
+.map h2{
+    font-size: 30px;
+    text-align: center;
+}
+
 @media (max-width: 800px) {
     .pasta-list {
     padding-left: 20px;
@@ -52,7 +73,7 @@
     }
 
     .pasta-list li{
-        width: 220px;
-        margin-left: 30px;
+        width: 300px;
+        margin-left: 35px;
     }
     }
