@@ -22,14 +22,16 @@ a {
 }
 
 body {
-    background: url("images/ramen/貴楽.png") no-repeat 50% 100px,
-    url("images/ramen/一蘭.png") no-repeat 50% 100px,
-    url("images/ramen/ちいかわラーメン豚.png") no-repeat 50% 100px;
+    font-family:'HuiFont',sans-serif;
+    font-size: 17pt;
+    color: #000000;
+    line-height: 2;
+    background-color: #ffffff;
 
 }
 
 img {
-    max-width: 100%;
+    max-width: 20%;
 }
 
 .circle-image {
