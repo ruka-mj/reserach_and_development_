@@ -22,11 +22,10 @@ a {
 }
 
 body {
-    font-family:'HuiFont',sans-serif;
-    font-size: 17pt;
-    color: #000000;
-    line-height: 2;
-    background-color: #ffffff;
+    background: url("images/ramen/貴楽.png") no-repeat 50% 100px,
+    url("images/ramen/一蘭.png") no-repeat 50% 100px,
+    url("images/ramen/ちいかわラーメン豚.png") no-repeat 50% 100px;
+
 }
 
 img {
