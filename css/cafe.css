@@ -1,10 +1,15 @@
 .cafe {
+    font-family:'HuiFont',sans-serif;
+    font-size: 16pt;
     background-color: #f8f8f8;
     padding-top: 40px;
     padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 .cafe h2 {
+    margin-bottom: 40px;
     font-size: 40px;
     text-align: center;
 }
