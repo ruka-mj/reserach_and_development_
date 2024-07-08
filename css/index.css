@@ -2,7 +2,7 @@
     font-size: 70px;
     text-align: center;
     font-family: "Shizuru", system-ui;
-    margin : 200 100 100 100;
+    margin : 200 0 100 100;
 }
 
 .main h3 {
@@ -12,8 +12,7 @@
 
 .title{
     font-size: 20px;
-    margin : 300 auto;
-    padding : 50px;
+    margin : 50 auto;
     text-align: center;
 }
 
@@ -23,14 +22,24 @@
 
 .writer1 {
     font-size: 20px;
-    margin : 100 auto;
+    margin : 10 auto;
     padding : 50px;
     text-align: center;
 }
 
 .writer2 {
     font-size: 20px;
-    margin : 100 auto;
+    margin : 10 auto;
     padding : 50px;
     text-align: center;
+}
+
+.Yuna {
+    width: 50%;
+    height: 50%;
+}
+
+.Ruka {
+    width: 50%;
+    height: 50%;
 }
