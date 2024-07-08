@@ -45,11 +45,13 @@
     margin-left: 0;
 }
 
-.pasta-list img{
+.pasta img{
     height: 200px;
     width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
-
 
 .map {
     width: 300px;
