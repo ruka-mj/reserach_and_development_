@@ -149,8 +149,8 @@ img {
 }
 
 .footer {
-    color: #ffffff;
-    background-color: #24211b;
+    color: #000000;
+    background-color: #ffffff;
     padding-top: 30px;
     padding-bottom: 15px;
     display: flex;
