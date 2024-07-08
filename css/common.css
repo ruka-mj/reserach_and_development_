@@ -35,7 +35,7 @@ a {
 
 body {
     font-family:'HuiFont',sans-serif;
-    font-size: 17pt;
+    font-size: 20pt;
     color: #000000;
     line-height: 2;
     background-color: #ffffff;
@@ -70,6 +70,10 @@ img {
 .header-logo {
     display: block;
     width: 100px;
+    margin: 100 auto;
+    display: flex;
+    align-items: center;
+
 }
 
 .site-menu ul {
@@ -82,7 +86,7 @@ img {
 }
 
 .site-menu ul li a {
-    font-family: 'Cherry Bomb One', cursive;
+    font-family: 'HuiFont',sans-serif;
 }
 
 @media (max-width: 800px) {
@@ -161,8 +165,8 @@ img {
 }
 
 .footer {
-    color: #ffffff;
-    background-color: #24211b;
+    color: #000000;
+    background-color: #ffffff;
     padding-top: 30px;
     padding-bottom: 15px;
     display: flex;
