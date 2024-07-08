@@ -3,7 +3,11 @@
     text-align: center;
 }
 
-.main div {
+.main h3 {
+    font-size: 30px;
+}
+
+.title{
     font-size: 20px;
     margin : 100 auto;
     padding : 50px;
@@ -12,4 +16,12 @@
 
 .main {
     background-image : url(../images/common/背景.png);
+}
+
+.writer1 {
+    font-size: 20px;
+}
+
+.writer2 {
+    font-size: 20px;
 }
