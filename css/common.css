@@ -59,6 +59,8 @@ img {
     display: block;
     width: 100px;
     margin: 100 auto;
+    display: flex;
+    align-items: center;
 
 }
 
