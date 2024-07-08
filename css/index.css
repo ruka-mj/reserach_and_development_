@@ -2,6 +2,7 @@
     font-size: 70px;
     text-align: center;
     font-family: "Shizuru", system-ui;
+    margin : 200 100 100 100;
 }
 
 .main h3 {
@@ -11,7 +12,7 @@
 
 .title{
     font-size: 20px;
-    margin : 200 100 100 100;
+    margin : 300 auto;
     padding : 50px;
     text-align: center;
 }
