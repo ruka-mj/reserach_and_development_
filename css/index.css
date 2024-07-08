@@ -1,10 +1,12 @@
 .main h1 {
     font-size: 70px;
     text-align: center;
+    font-family: "Shizuru", system-ui;
 }
 
 .main h3 {
     font-size: 30px;
+    text-align: center;
 }
 
 .title{
