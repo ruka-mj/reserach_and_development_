@@ -1,15 +1,10 @@
 .ramen {
-    font-family:'HuiFont',sans-serif;
-    font-size: 16pt;
     background-color: #f8f8f8;
     padding-top: 40px;
     padding-bottom: 50px;
-    padding-left: 50px;
-    padding-right: 50px;
 }
 
 .ramen h1 {
-    margin-bottom: 40px;
     font-size: 40px;
     text-align: center;
 }
@@ -45,12 +40,9 @@
     margin-left: 0;
 }
 
-.ramen img{
-    height: 200px;
+.ramen-list img{
+    height: 150px;
     width: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 
@@ -60,7 +52,6 @@
     margin-top: 75px;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 30px;
 }
 
 .map iframe {
