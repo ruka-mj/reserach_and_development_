@@ -45,11 +45,6 @@ img {
     max-width: 100%;
 }
 
-.circle-image {
-    width: 50px;
-    border-radius: 50%;
-    object-fit: cover;
-}
 
 .header-inner {
     max-width: 1200px;

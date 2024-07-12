@@ -9,10 +9,12 @@
 }
 
 .cafe h2 {
+    margin-top: 40px;
     margin-bottom: 40px;
     font-size: 40px;
     text-align: center;
 }
+
 
 .cafe h2::after {
     content: ‘’;
@@ -73,15 +75,6 @@
 
 
 @media (max-width: 800px) {
-    .pasta-list {
-    padding-left: 20px;
-    padding-right: 20px;
-    }
-
-    .pasta-list li{
-        width: 300px;
-        margin-left: 35px;
-    }
     .site-menu ul {
         display: block;
         text-align: center;

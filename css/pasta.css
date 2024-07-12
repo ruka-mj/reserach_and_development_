@@ -9,6 +9,7 @@
 }
 
 .pasta h2 {
+    margin-top: 40px;
     margin-bottom: 40px;
     font-size: 40px;
     text-align: center;
@@ -69,21 +70,9 @@
     margin-top: 25px;
 }
 
-.map h2{
-    font-size: 30px;
-    text-align: center;
-}
 
 @media (max-width: 800px) {
-    .pasta-list {
-    padding-left: 20px;
-    padding-right: 20px;
-    }
 
-    .pasta-list li{
-        width: 300px;
-        margin-left: 35px;
-    }
     .site-menu ul {
         display: block;
         text-align: center;
