@@ -30,7 +30,7 @@ a {
 
 @font-face {
     font-family: 'HuiFont';
-    src: url("images/common/HuiFont29/HuiFont29.ttf") format('truetype');
+    src: url("../images/common/HuiFont29/HuiFont29.ttf") format('truetype');
 }
 
 body {
